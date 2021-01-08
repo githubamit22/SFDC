@@ -16,7 +16,7 @@ node {
     println HUB_ORG
     println SFDC_HOST
     println CONNECTED_APP_CONSUMER_KEY
-    def toolbelt = tool 'toolbelt'
+    def toolbelt = "C:\Program Files\Salesforce CLI\bin\sfdx"
 	println 'Tool IS' 
     println toolbelt		
 
